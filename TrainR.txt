@@ -1,0 +1,18 @@
+Train Seat Reservation
+1.Introduction
+1.1 Purpose:
+The purpose of Train seat Resevation System is to search trains,check seat availibility,book tickets and online payments.
+1.2 Scope:
+It reduces manual work at railway counter and provides fast,secure,and convenient ticket booking services.
+1.3 Overview:
+It contains functional requirements,non-functional requirements,interface requirements,and design constraints of the system.
+2.Functional Requirements:
+The system shall allow users to register with name,phone number,email,and password
+The system shall allow users to login securely
+The system should allow users to search trains by source,destination,and date.
+3.Non-Functioal Requirements:
+Performance
+Security
+Scalability
+Usability
+
